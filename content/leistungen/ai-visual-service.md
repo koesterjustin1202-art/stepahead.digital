@@ -1,5 +1,6 @@
 ---
-title: "AI Visual Service"
+title: "AI Visual Service – KI-gestützte Bildproduktion"
+description: "Hochwertige KI-generierte Bilder für Marketing, E-Commerce und Interior Design. ComfyUI + RealVisXL Technologie für fotorealistische Ergebnisse."
 date: 2026-05-16
 ---
 

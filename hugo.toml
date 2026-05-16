@@ -1,14 +1,28 @@
 baseURL = "https://koesterjustin1202-art.github.io/stepahead.digital/"
-languageCode = "de"
+languageCode = "de-DE"
 locale = "de-DE"
 title = "StepAhead Digital"
 theme = "papermod"
+enableGitInfo = false
+
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [params]
   title = "StepAhead Digital"
   description = "KI-gestützte digitale Lösungen für Unternehmen"
   keywords = ["KI", "AI", "Digital", "Automatisierung", "Chatbot", "Workflow"]
   author = "StepAhead Digital"
+  env = "production"
+  enableRobotsTXT = true
+
+[languages.de]
+  languageCode = "de-DE"
+  languageName = "German"
+  weight = 1
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 [menu]
   [[menu.main]]

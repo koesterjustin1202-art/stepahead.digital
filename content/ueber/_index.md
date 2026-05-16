@@ -1,5 +1,6 @@
 ---
-title: "Über uns"
+title: "Über uns – StepAhead Digital"
+description: "StepAhead Digital wurde gegründet, um Unternehmen den Zugang zu modernster KI-Technologie zu erleichtern. Einfach, lokal und transparent."
 date: 2026-05-16
 menu:
   main:

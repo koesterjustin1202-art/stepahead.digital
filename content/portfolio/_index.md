@@ -1,5 +1,6 @@
 ---
-title: "Portfolio"
+title: "Portfolio – StepAhead Digital"
+description: "Ausgewählte KI-Projekte von StepAhead Digital: AI Visual Production, Workflow-Automation und Knowledge Management für Unternehmen."
 date: 2026-05-16
 menu:
   main:

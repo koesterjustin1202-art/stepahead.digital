@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3182ce"/>
+      <stop offset="100%" style="stop-color:#63b3ed"/>
+    </linearGradient>
+  </defs>
+  <polygon points="10,10 30,10 30,25 10,25" fill="url(#grad)"/>
+  <polygon points="30,25 40,25 40,40 30,40" fill="#63b3ed"/>
+  <text x="50" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="url(#grad)">StepAhead</text>
+</svg>

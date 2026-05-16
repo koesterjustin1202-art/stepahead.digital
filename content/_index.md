@@ -1,5 +1,6 @@
 ---
-title: "StepAhead Digital"
+title: "StepAhead Digital – KI-Agentur für Unternehmen"
+description: "StepAhead Digital – Ihre KI-Agentur für Automatisierung, Visualisierung und digitale Transformation. Wir machen Ihr Unternehmen zukunftsfähig."
 date: 2026-05-16
 ---
 

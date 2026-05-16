@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "StepAhead Digital",
+  "url": "https://koesterjustin1202-art.github.io/stepahead.digital/",
+  "description": "KI-gestützte digitale Lösungen für Unternehmen. AI Consulting, Workflow Automation und AI Visual Production.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Deutschland",
+    "addressCountry": "DE"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "kontakt@stepahead.digital",
+    "contactType": "customer service"
+  },
+  "sameAs": [
+    "https://github.com/stepahead"
+  ]
+}
+</script>
