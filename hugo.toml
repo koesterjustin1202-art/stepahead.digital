@@ -1,0 +1,29 @@
+baseURL = "https://stepahead.digital"
+languageCode = "de"
+locale = "de-DE"
+title = "StepAhead Digital"
+theme = "papermod"
+
+[params]
+  title = "StepAhead Digital"
+  description = "KI-gestützte digitale Lösungen für Unternehmen"
+  keywords = ["KI", "AI", "Digital", "Automatisierung", "Chatbot", "Workflow"]
+  author = "StepAhead Digital"
+
+[menu]
+  [[menu.main]]
+    name = "Leistungen"
+    url = "/leistungen/"
+    weight = 1
+  [[menu.main]]
+    name = "Portfolio"
+    url = "/portfolio/"
+    weight = 2
+  [[menu.main]]
+    name = "Über uns"
+    url = "/ueber/"
+    weight = 3
+  [[menu.main]]
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 4
