@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://koesterjustin1202-art.github.io/stepahead.digital/sitemap.xml

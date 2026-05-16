@@ -5,7 +5,7 @@ date: 2026-05-16
 
 # KI-gestützte digitale Lösungen
 
-Wir bei StepAhead Digital verbinden künstliche Intelligenz mit praktischen Geschäftslösungen. Von der Automatisierung bis zur Visualisierung – wir machen您的 Unternehmen zukunftsfähig.
+Wir bei StepAhead Digital verbinden künstliche Intelligenz mit praktischen Geschäftslösungen. Von der Automatisierung bis zur Visualisierung – wir machen Ihr Unternehmen zukunftsfähig.
 
 ## Unsere Leistungen
 
