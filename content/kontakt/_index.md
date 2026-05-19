@@ -16,8 +16,18 @@ Sie haben Interesse an unseren Leistungen? Kontaktieren Sie uns!
 **StepAhead Digital**  
 Justin Köster & Günter Yilmaz
 
+**Email:** info@stepahead.digital
 **Website:** https://stepahead.digital
 
----
+## Leistungen
 
-*Wir freuen uns auf Ihre Nachricht!*
+- AI Consulting & Strategie
+- Workflow Automation
+- AI Visual Production
+- Knowledge Management
+
+## Anfrage senden
+
+Schreibt uns eine Email an **info@stepahead.digital** oder nutzt das Kontaktformular unten.
+
+---

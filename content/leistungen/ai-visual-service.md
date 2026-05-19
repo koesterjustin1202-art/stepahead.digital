@@ -1,33 +1,42 @@
 ---
 title: "AI Visual Service – KI-gestützte Bildproduktion"
-description: "Hochwertige KI-generierte Bilder für Marketing, E-Commerce und Interior Design. ComfyUI + RealVisXL Technologie für fotorealistische Ergebnisse."
-date: 2026-05-16
+description: "Hochwertige KI-generierte Bilder für Marketing, E-Commerce und Social Media. RealVisXL v5.0 für professionelle Ergebnisse ohne teure Shootings."
+date: 2026-05-19
 ---
 
 # AI Visual Service
 
-Hochwertige KI-generierte Bilder für Ihr Unternehmen.
+Hochwertige KI-generierte Bilder für Marketing und E-Commerce – ohne teure Model-Shootings.
 
-## Leistungsumfang
+## Was wir bieten
 
-### Produktfotografie
-KI-generierte Produktbilder ohne klassisches Fotoshooting. Perfekt für E-Commerce, Kataloge und Werbematerial.
+- **Lifestyle-Produktbilder** mit KI-Models
+- **Social Media Ready** für Instagram, TikTok, Pinterest
+- **E-Commerce Assets** für Shopify, Etsy, WooCommerce
+- **Campaign Visuals** für ganze Produktlaunches
 
-### Interior Design
-Raumvisualisierungen für Immobilien und Einrichtung. Von Moodboards bis zu fotorealistischen Darstellungen.
+## Preise
 
-### Marketing Assets
-Social Media Grafiken, Banner, Werbematerial – professionell und konsistent.
+| Paket | Umfang | Preis |
+|---|---|---|
+| **Basic** | 5 Bilder, 1 Hintergrund | €150 |
+| **Standard** | 15 Bilder, 3 Settings | €350 |
+| **Premium Campaign** | 30 Bilder, 5 Styles | €800 |
 
-### Moodboards & Concepts
-Kreative Visualisierungen für Projekte und Präsentationen.
+Einzelbilder ab €25. [Alle Preise](/leistungen/ai-visual-service/)
 
-## Technologie
+## Ablauf
 
-- **ComfyUI + RealVisXL** für hochwertige Bilder
-- **Lokale Infrastruktur** – Ihre Daten bleiben bei Ihnen
-- **Flexible Formate** – PNG, JPG, WebP bis 4K
+1. **Briefing** – Was brauchst du genau?
+2. **Angebot** – Festpreis, keine Überraschungen
+3. **Production** – 5-10 Tage je nach Umfang
+4. **Review** – Revisionen inklusive
+5. **Final Files** – Commercial License inklusive
 
-## Anfrage
+## Kontakt
 
-Interesse? [Kontakt aufnehmen](/kontakt/)
+[Email senden](/kontakt/) oder schreibt uns direkt.
+
+---
+
+*Kommerzielle Nutzung inklusive. Keine zusätzlichen Lizenzkosten.*
